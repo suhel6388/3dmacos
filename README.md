@@ -68,7 +68,6 @@ The project is ideal for designers and developers aiming to build **interactive 
 | **TailwindCSS**          | Utility-first responsive styling            |
 | **Zustand**              | Lightweight global state management         |
 | **Vite**                 | Fast build tool and dev server              |
-| **Hostinger**            | Hosting and deployment                      |
 | **CodeRabbit**           | AI-powered code review integration          |
 
 ---
